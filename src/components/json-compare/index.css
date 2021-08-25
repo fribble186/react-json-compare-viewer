@@ -1,0 +1,18 @@
+.column:hover {
+  font-weight: bold;
+}
+.normalColumn {
+  white-space: pre-wrap;
+}
+.updateColumn {
+  white-space: pre-wrap;
+  background-color: rgba(255, 255, 0, 0.3);
+}
+.deleteColumn {
+  white-space: pre-wrap;
+  background-color: rgba(255, 0, 0, 0.3);
+}
+.addColumn {
+  white-space: pre-wrap;
+  background-color: rgba(0, 128, 0, 0.3);
+}
