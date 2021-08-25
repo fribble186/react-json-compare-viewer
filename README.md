@@ -4,6 +4,8 @@ it is easy for you to use this component to show the differece of two json
 
 u can customize the styles by cover the css class
 
+![demo](https://raw.githubusercontent.com/fribble186/react-json-compare-viewer/HEAD/demo.png)
+
 ## USAGE
 1. install
 
